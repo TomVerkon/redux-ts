@@ -1,4 +1,5 @@
 import axios from 'axios';
+// Dispatch is an interface defined in Redux type definitions file index.d.ts
 import { Dispatch } from 'redux';
 import { ActionType } from '../action-types';
 import { Action } from '../actions';
